@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/fgibson94/Friend-Finder.git"
   },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
   "keywords": [
     "path",
     "node",
